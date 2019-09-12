@@ -1,6 +1,10 @@
 # josm_sauce
 
-special purpose built bookmarklet to load data via url into JSOM
+a special purpose built bookmarklet to load Lexington Map data via url into [JSOM](https://josm.openstreetmap.de) 
+
+this built to enhance our efforts at [MapTime event](http://maptime.io/lexington/) reduce the clicking and copy / pasting.
+
+The bookmarklet is hosted on GitHub pages
 
 ## usage
 
